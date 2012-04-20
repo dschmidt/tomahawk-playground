@@ -1,0 +1,6 @@
+
+class libtomahawk
+{
+public:
+    libtomahawk();
+};
